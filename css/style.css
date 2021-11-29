@@ -263,6 +263,8 @@ header .navbar a {
     margin-bottom: 10px;
     text-transform: unset;
     line-height: 15px;
+     text-align: left;
+    margin-left: 15px;
 }
 
 .pages .card-gallery-inner .card-gal-content p {
