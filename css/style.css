@@ -5,6 +5,7 @@
     --deep-black: #0f2656;
     --baby-pink: #fdebed;
     --lignt-blue: #ebf9f4;
+    --light-orange: #fff7e8;
 }
 
 * {
@@ -234,7 +235,7 @@ header .navbar a {
 }
 
 .pages .card-gallery-inner.item-3 {
-    background-color: var(--baby-pink);
+     background-color: var(--light-orange);
 }
 
 .pages .card-gallery-inner .card-gal-img {
