@@ -1,0 +1,109 @@
+@media(max-width:600px) {
+    .overviews .container {
+        padding: 50px 5% !important;
+    }
+    .overviews-heading .overviews-title .description {
+        padding: 0 65px !important;
+        font-size: 13px;
+    }
+    header .navbar a {
+        font-size: 14px !important;
+    }
+    header .logo img {
+        width: 70%;
+    }
+    .overviews {
+        width: 100%;
+        padding: 100px 0 20px 0 !important;
+    }
+    .overviews .over-img img {
+        width: 90%;
+    }
+    .overviews-heading .overviews-title h2 {
+        font-size: 25px;
+    }
+    .landing {
+        padding-bottom: 0;
+    }
+    .landing .text-left h1 {
+        font-size: 40px;
+    }
+    .landing .text-left p {
+        margin-top: 13px;
+        line-height: 1.4;
+        font-size: 13px;
+    }
+    .landing .text-right h3 {
+        font-size: 30px;
+    }
+    .pages {
+        padding-bottom: 50px;
+    }
+    .pages .card-gallery-inner {
+        padding: 40px 12px;
+        height: 300px;
+    }
+    .pages .card-gallery-inner .card-gal-img img {
+        max-width: 80%;
+        height: 90px;
+    }
+    .pages .card-gallery-inner .card-gal-content h5 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .pages .card-gallery-inner .card-gal-content p {
+        font-size: 10px;
+        padding: 0 10px;
+        line-height: 12px;
+    }
+    footer {
+        padding: 1.2rem 9%;
+    }
+    footer .content h3 {
+        font-size: 10px;
+    }
+}
+
+@media(max-width:544px) {
+    header {
+        padding: .5rem 7%;
+        margin: 10px 0px;
+        box-shadow: rgb(0 0 0 / 10%) 0px 0.2rem .5rem;
+    }
+    .overviews-heading .overviews-title h2 {
+        font-size: 20px;
+    }
+    .overviews-heading .overviews-title .description {
+        font-size: 12px;
+    }
+    .overviews {
+        padding: 50px 0 20px 0 !important;
+    }
+    header .navbar a {
+        font-size: 9px !important;
+    }
+    .landing .text-right h3 {
+        font-size: 22px;
+    }
+    .landing .text-left h1 {
+        font-size: 30px;
+    }
+    .landing .text-left p {
+        margin-top: 5px;
+        line-height: 1.2;
+        font-size: 11px;
+    }
+    .pages .card-gallery-inner {
+        padding: 20px 8px;
+        height: 230px;
+    }
+    .pages .card-gallery-inner .card-gal-content h5 {
+        font-size: 9px;
+        line-height: 12px;
+    }
+    .pages .card-gallery-inner .card-gal-content p {
+        font-size: 7px;
+        padding: 0 0px;
+        line-height: 10px;
+    }
+}
