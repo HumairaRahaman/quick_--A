@@ -139,8 +139,6 @@ header .navbar a {
     justify-content: space-between;
 }
 
-.overviews-heading .overviews-title h2 {}
-
 .overviews-heading .overviews-title h2 span {
     color: var(--blue);
 }
@@ -235,7 +233,7 @@ header .navbar a {
 }
 
 .pages .card-gallery-inner.item-3 {
-     background-color: var(--light-orange);
+    background-color: var(--light-orange);
 }
 
 .pages .card-gallery-inner .card-gal-img {
@@ -264,7 +262,7 @@ header .navbar a {
     margin-bottom: 10px;
     text-transform: unset;
     line-height: 15px;
-     text-align: left;
+    text-align: left;
     margin-left: 15px;
 }
 
