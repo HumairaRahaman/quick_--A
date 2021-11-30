@@ -5,6 +5,7 @@
     --deep-black: #0f2656;
     --baby-pink: #fdebed;
     --lignt-blue: #ebf9f4;
+    --light-orange: #fff7e8;
 }
 
 * {
@@ -138,8 +139,6 @@ header .navbar a {
     justify-content: space-between;
 }
 
-.overviews-heading .overviews-title h2 {}
-
 .overviews-heading .overviews-title h2 span {
     color: var(--blue);
 }
@@ -234,7 +233,7 @@ header .navbar a {
 }
 
 .pages .card-gallery-inner.item-3 {
-    background-color: var(--baby-pink);
+    background-color: var(--light-orange);
 }
 
 .pages .card-gallery-inner .card-gal-img {
@@ -263,6 +262,8 @@ header .navbar a {
     margin-bottom: 10px;
     text-transform: unset;
     line-height: 15px;
+    text-align: left;
+    margin-left: 15px;
 }
 
 .pages .card-gallery-inner .card-gal-content p {
